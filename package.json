@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://sjlee-0525.github.io/sub-pjt/",
+  "homepage": "https://sjlee-0525.github.io/sub-user/",
   "dependencies": {
     "date-fns": "^4.1.0",
     "react": "^18.3.1",
