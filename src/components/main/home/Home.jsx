@@ -31,7 +31,7 @@ export default function Main() {
 
   return (
     <div>
-      <h2 id="main-container-title">HOME</h2>
+      <h2 id="main-container-title">132HOME</h2>
 
       <div id="page-container">
         <Widget title="긴급 상황 알림" type="emergency">
