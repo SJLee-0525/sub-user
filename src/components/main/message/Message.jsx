@@ -9,7 +9,6 @@ import MessageInput from "./MessageInput";
 export default function Message() {
   return (
     <div>
-      <h2 id="main-container-title">MESSAGE</h2>
       <PageContainer title="어머니😎">
         {/* <MessageContextProvider> */}
         <div id="message">
